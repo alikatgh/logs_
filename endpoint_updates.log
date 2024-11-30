@@ -1,0 +1,21 @@
+2024-10-30 17:54:34,958 - INFO - Starting endpoint updates in /Users/work/Documents/Borgotsoi/logs_private
+2024-10-30 17:54:34,959 - INFO - Dry run: True
+2024-10-30 17:54:34,993 - INFO - Would update /Users/work/Documents/Borgotsoi/logs_private/app/templates/create_return_copy.html (dry run)
+2024-10-30 17:54:34,995 - INFO - Would update /Users/work/Documents/Borgotsoi/logs_private/app/templates/index.html (dry run)
+2024-10-30 17:54:35,005 - INFO - Would update /Users/work/Documents/Borgotsoi/logs_private/app/templates/footer.html (dry run)
+2024-10-30 17:54:35,007 - INFO - Would update /Users/work/Documents/Borgotsoi/logs_private/app/templates/return_details.html (dry run)
+2024-10-30 17:54:35,010 - INFO - Would update /Users/work/Documents/Borgotsoi/logs_private/app/templates/products/index.html (dry run)
+2024-10-30 17:54:35,012 - INFO - Would update /Users/work/Documents/Borgotsoi/logs_private/app/templates/products/manage_products.html (dry run)
+2024-10-30 17:54:35,018 - INFO - Would update /Users/work/Documents/Borgotsoi/logs_private/app/templates/supermarkets/manage.html (dry run)
+2024-10-30 17:54:35,021 - INFO - Would update /Users/work/Documents/Borgotsoi/logs_private/app/templates/returns/create.html (dry run)
+2024-10-30 17:54:40,301 - INFO - 
+Summary:
+2024-10-30 17:54:40,301 - INFO - Would modify 8 files:
+2024-10-30 17:54:40,301 - INFO -   - /Users/work/Documents/Borgotsoi/logs_private/app/templates/create_return_copy.html
+2024-10-30 17:54:40,301 - INFO -   - /Users/work/Documents/Borgotsoi/logs_private/app/templates/index.html
+2024-10-30 17:54:40,302 - INFO -   - /Users/work/Documents/Borgotsoi/logs_private/app/templates/footer.html
+2024-10-30 17:54:40,302 - INFO -   - /Users/work/Documents/Borgotsoi/logs_private/app/templates/return_details.html
+2024-10-30 17:54:40,302 - INFO -   - /Users/work/Documents/Borgotsoi/logs_private/app/templates/products/index.html
+2024-10-30 17:54:40,302 - INFO -   - /Users/work/Documents/Borgotsoi/logs_private/app/templates/products/manage_products.html
+2024-10-30 17:54:40,302 - INFO -   - /Users/work/Documents/Borgotsoi/logs_private/app/templates/supermarkets/manage.html
+2024-10-30 17:54:40,302 - INFO -   - /Users/work/Documents/Borgotsoi/logs_private/app/templates/returns/create.html

@@ -1,0 +1,109 @@
+.
+├── app
+│   ├── __init__.py
+│   ├── auth_routes.py
+│   ├── database.py
+│   ├── forms.py
+│   ├── json_encoder.py
+│   ├── models
+│   │   └── user.py
+│   ├── models.py
+│   ├── routes
+│   │   ├── __init__.py
+│   │   ├── api_routes.py
+│   │   ├── auth_routes.py
+│   │   ├── delivery_routes.py
+│   │   ├── error_handlers.py
+│   │   ├── main_routes.py
+│   │   ├── product_routes.py
+│   │   ├── report_routes.py
+│   │   ├── return_routes.py
+│   │   └── supermarket_routes.py
+│   ├── static
+│   │   ├── css
+│   │   │   └── styles.css
+│   │   ├── images
+│   │   │   ├── cargo-truck.png
+│   │   │   ├── logo.jpg
+│   │   │   ├── logo.png
+│   │   │   ├── products.png
+│   │   │   ├── return.png
+│   │   │   └── supermarket.png
+│   │   └── js
+│   │       └── app.js
+│   ├── templates
+│   │   ├── auth
+│   │   │   ├── error.html
+│   │   │   └── login.html
+│   │   ├── base.html
+│   │   ├── create_delivery.html
+│   │   ├── create_return_copy.html
+│   │   ├── csrf_error.html
+│   │   ├── deliveries
+│   │   │   ├── create.html
+│   │   │   ├── index.html
+│   │   │   └── view.html
+│   │   ├── delivery_details.html
+│   │   ├── email
+│   │   │   ├── reset_password.html
+│   │   │   └── reset_password.txt
+│   │   ├── errors
+│   │   │   ├── 404.html
+│   │   │   ├── 500.html
+│   │   │   └── base_error.html
+│   │   ├── footer.html
+│   │   ├── index.html
+│   │   ├── products
+│   │   │   ├── index.html
+│   │   │   └── manage_products.html
+│   │   ├── register.html
+│   │   ├── report_copy.html
+│   │   ├── reports
+│   │   │   └── report.html
+│   │   ├── return_details.html
+│   │   ├── returns
+│   │   │   ├── create.html
+│   │   │   └── index.html
+│   │   ├── supermarkets
+│   │   │   ├── index.html
+│   │   │   └── manage.html
+│   │   └── test.html
+│   ├── test_extract.py
+│   └── utils
+│       ├── decorators.py
+│       ├── email.py
+│       ├── rate_limit.py
+│       └── security.py
+├── babel.cfg
+├── config.py
+├── create_db.py
+├── endpoint_updates.log
+├── flask_session
+├── get-pip.py
+├── instance
+│   ├── deliveries.db
+│   └── deliveries_dev.db
+├── logs
+│   └── app.log
+├── logs_private.code-workspace
+├── manage.py
+├── manage_db.py
+├── messages.pot
+├── project_structure.txt
+├── project_tree.txt
+├── requirements.txt
+├── run.py
+├── seed_data.py
+├── translations
+│   ├── en
+│   │   └── LC_MESSAGES
+│   │       ├── messages.mo
+│   │       └── messages.po
+│   └── mn
+│       └── LC_MESSAGES
+│           ├── messages.mo
+│           └── messages.po
+├── update_routes.py
+└── uploads
+
+27 directories, 80 files
